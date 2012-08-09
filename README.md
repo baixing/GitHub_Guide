@@ -35,3 +35,11 @@ Private Repo
 * **管理员有权删掉Private Repo的任意一个Fork!**
 * Private Repo的Fork是不能把状态改成Public的（管理员也不能）
 * 综上所述： Private Repo还是很安全的！
+
+
+一本关于GitHub的电子书
+==================
+http://www.worldhello.net/gotgithub/index.html
+大部分东西都讲得挺清楚的，不过有些内容有点老。
+这些文档也开源了~ 有空去提个Pull Request~
+https://github.com/gotgit/gotgithub
