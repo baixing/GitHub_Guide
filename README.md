@@ -1,5 +1,6 @@
-权限说明
+关于权限
 ========
+
 ##官方说明
 https://help.github.com/articles/what-are-the-different-access-permissions
 
@@ -28,8 +29,8 @@ https://help.github.com/articles/what-are-the-different-access-permissions
 * 开新Repo的人
 * 有权删掉自己开的Repo
 
-Private Repo
-============
+关于Private Repo
+================
 * Private的Repo即使被Fork了，Fork出来的也还是Private的
 * 如果Fork某个Priavte Repo到自己名下，就算被取消了Repo的读权限，你的Fork依然可用，只是不能更新了。
 * **管理员有权删掉Private Repo的任意一个Fork!**
@@ -38,7 +39,7 @@ Private Repo
 
 
 一本关于GitHub的电子书
-==================
+======================
 http://www.worldhello.net/gotgithub/index.html
 大部分东西都讲得挺清楚的，不过有些内容有点老。
 这些文档也开源了~ 有空去提个Pull Request~
