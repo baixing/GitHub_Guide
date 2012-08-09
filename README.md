@@ -1,4 +1,3 @@
-
 权限说明
 ========
 ##官方说明
@@ -33,3 +32,6 @@ Private Repo
 ============
 * Private的Repo即使被Fork了，Fork出来的也还是Private的
 * 如果Fork某个Priavte Repo到自己名下，就算被取消了Repo的读权限，你的Fork依然可用，只是不能更新了。
+* **管理员有权删掉Private Repo的任意一个Fork!**
+* Private Repo的Fork是不能把状态改成Public的（管理员也不能）
+* 综上所述： Private Repo还是很安全的！
