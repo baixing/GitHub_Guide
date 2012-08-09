@@ -38,7 +38,7 @@ Private Repo
 
 
 一本关于GitHub的电子书
-==================
+======================
 http://www.worldhello.net/gotgithub/index.html
 大部分东西都讲得挺清楚的，不过有些内容有点老。
 这些文档也开源了~ 有空去提个Pull Request~
