@@ -37,6 +37,16 @@ https://help.github.com/articles/what-are-the-different-access-permissions
 * Private Repo的Fork是不能把状态改成Public的（管理员也不能）
 * 综上所述： Private Repo还是很安全的！
 
+* 关于命令行下https提示登陆的问题：推荐用OAuth解决，详见http://developer.github.com/v3/oauth/  
+
+
+关于系统安全  
+============
+* 系统操作记录：  
+* https://github.com/organizations/baixing/settings/security  
+* 数据备份：  
+* 不需要单独备份，每份Ckeckout出来的git都能用于恢复原始数据！  
+
 
 一本关于GitHub的电子书
 ======================
